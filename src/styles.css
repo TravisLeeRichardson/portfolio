@@ -162,6 +162,11 @@ hr {
     color: #ef744b;
 }
 
+.project-link-unavailable {
+    text-decoration: none;
+    color: black;
+}
+
 a {
     text-decoration: none;
     color: white;
